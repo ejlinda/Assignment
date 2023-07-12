@@ -1,12 +1,99 @@
 .butt{
     background-color: rgb(220, 20, 87);
     color: white;
+    
 }
 .banner{
-    padding: 30px,30px,30px,150px;
+    padding: 30px,30px,30px,50px;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .banner .propic{
-    background-position: left ;
+    background-position: right ;
     width: 200px;
+}
+.header{
+    background-color:#e554736c ;
+}
+.banner-greeting{
+margin-bottom: 32px;
+}
+.banner-content{
+    margin-bottom: 30px;
+}
+.about{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.section title{
+    margin-bottom: 30px;
+}
+.banne{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 400px;
+}
+.imm{
+    width: 180px;
+
+}
+.profpic{
+    width: 150px;
+    margin-bottom: 500px;
+}
+.head{
+    background-color: #e554736c;
+    padding: 30px 30px 30px 50px;
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+
+}
+.aboutt{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.cent{
+    text-align: center;
+}
+.but{
+    width: 600px;
+    background-color: white;
+}
+.lastt{
+    text-align: center;
+}
+.one{
+    color: hotpink;
+}
+.two{
+    color: white;
+}
+.laa{
+    background-color: black;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.laa .last .section des{
+    color: white;
+}
+.laast{
+    color: rgb(220, 220, 220);
+}
+.lop{
+    color: lightgrey;
+}
+.dif{
+    color: deeppink;
 }
