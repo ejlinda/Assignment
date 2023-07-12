@@ -1,0 +1,12 @@
+.butt{
+    background-color: rgb(220, 20, 87);
+    color: white;
+}
+.banner{
+    padding: 30px,30px,30px,150px;
+    display: flex;
+}
+.banner .propic{
+    background-position: left ;
+    width: 200px;
+}
